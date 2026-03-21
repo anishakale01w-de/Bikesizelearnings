@@ -13,7 +13,6 @@ Concepts
 - DAG design notes
 - Operators used
 - Scheduling tips
-
 Todo
 - [ ] Add example DAG for weekly ETL
 - [ ] Add links to useful docs and cheat-sheets
