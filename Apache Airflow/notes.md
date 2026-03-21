@@ -20,8 +20,6 @@ Todo
 
 Links
 - https://airflow.apache.org/docs/
-
-
 How to use
 - Edit this file in VS Code. Press `Ctrl+S` to save.
 - Preview with `Ctrl+Shift+V` or use the split editor to edit and preview at once.
